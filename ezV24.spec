@@ -14,6 +14,7 @@ Source:		lib%{name}-%{version}.tar.bz2
 URL:		http://ezv24.sourceforge.net/
 License:	GPL
 Group:		System/Libraries
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 The goal of this library is to provide an easy to use programming interface to
