@@ -11,7 +11,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		lib%{name}-%{version}.tar.bz2
-URL:		http://ezv24.sourceforge.net/
+URL:		https://ezv24.sourceforge.net/
 License:	GPL
 Group:		System/Libraries
 BuildRoot:	%{_tmppath}/%{name}-buildroot
